@@ -1,1 +1,4 @@
 Quick scripts modifed sligtly to provide backdoor access to a remote machine.
+The Host Machine needs to run the "server.py" file and then the Remote machine needs to run the "backdoor.py" file.
+The Host IP Address will need to be modified in the constants for both files.
+Connection may take up to 30 seconds.
